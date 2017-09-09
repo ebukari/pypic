@@ -1,2 +1,2 @@
 # pypic
-everything concerning pypi
+compare pypi packages

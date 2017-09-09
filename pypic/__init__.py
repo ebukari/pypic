@@ -1,3 +1,6 @@
+"""
+Compare pypi packages
+"""
 import re
 import logging
 from collections import OrderedDict
@@ -10,7 +13,7 @@ except ImportError:  # pragma: no cover
 
 import requests
 
-
+__version__ = '0.1.0'
 NBSP = "\xa0"   # unicode for non-breaking space
 STATUS = 'testing'
 BASE = 'http://testpypi.python.org'

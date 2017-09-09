@@ -99,3 +99,14 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Logging
+logs/
+logging.yaml
+
+# PyCharm Files
+.idea/
+
+# Various configuration files
+pytest.ini
+*fixtures/

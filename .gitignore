@@ -109,4 +109,5 @@ logging.yaml
 
 # Various configuration files
 pytest.ini
+flit.ini
 *fixtures/
